@@ -1,13 +1,12 @@
-# LCLPy for Windows
-<b>[Lunar Client Lite](https://github.com/Aetopia/Lunar-Client-Lite-Launcher) rewritten in Python.
+# LCLReborn (forked from [Aetopia/LCLPy](https://github.com/Aetopia/LCLPy))
  
 ### Looking for the Linux Version?  
-Check it out here: https://github.com/Aetopia/LCLPy/tree/linux</b>
+Check it out here: https://github.com/Lucas4545ah/LCLReborn/tree/linux</b>
 
 # Information
-Releases: https://github.com/Aetopia/LCLPy/releases    
+Releases: https://github.com/Lucas4545ah/LCLReborn/releases    
 
-Wiki/Documentation: https://github.com/Aetopia/LCLPy/wiki
+Wiki/Documentation: https://github.com/Lucas4545ah/LCLReborn/wiki
 ## Build
 ### Using Nuitka (Recommended)
 1. Install Nuitka and ZStandard.
